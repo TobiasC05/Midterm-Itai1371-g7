@@ -1,6 +1,7 @@
 Group Reflection Journal
 
-For this project, we chose the Telco Customer Churn dataset because it has more than 2,000 rows, includes both numerical and categorical variables, and has a clear target variable for classification. We worked together to select, clean, and prepare the Telco Customer Churn dataset for machine learning.
+For this project, we chose the Telco Customer Churn dataset because it has more than 2,000 rows, includes both numerical and categorical variables, and has a clear target variable for classification.
+We worked together to select, clean, and prepare the Telco Customer Churn dataset for machine learning.
 
 TOBIAS C:
 I selected the dataset, the Telco Customer Churn, and ensured that it met the project requirements and criteria, writing the dataset proposal, and documenting the original dataset URL.
