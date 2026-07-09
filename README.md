@@ -18,5 +18,5 @@ Original dataset URL: https://www.kaggle.com/datasets/blastchar/telco-customer-c
 8. Save cleaned training and testing datasets
 
 
-## Important Note
+## Disclaimer
 The original dataset was not changed manually. All preprocessing was performed in Python using Jupyter Notebook.
