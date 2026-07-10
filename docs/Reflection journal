@@ -4,8 +4,8 @@ For this project, we chose the Telco Customer Churn dataset because it has more 
 We worked together to select, clean, and prepare the Telco Customer Churn dataset for machine learning.
 
 TOBIAS C:
-I selected the dataset, the Telco Customer Churn, and ensured that it met the project requirements and criteria, writing the dataset proposal, and documenting the original dataset URL.
-After the dataset was approved for use, I prepared the Jupyter notebook for the dataset and ensured that there were no mistakes in the notbook while testing the dataset.
+I selected the dataset, the Telco Customer Churn, and ensured that it met the project requirements and criteria, writing the dataset proposal and documenting the original dataset URL.
+After the dataset was approved for use, I prepared the Jupyter notebook for the dataset and ensured that there were no mistakes in the notebook while testing the dataset.
 
 -----
 LAURA CONOVER:
