@@ -9,6 +9,8 @@ After the dataset was approved for use, I prepared the Jupyter notebook for the 
 
 -----
 LAURA CONOVER:
+My partner chose the dataset we were using, The Telco Customer Churn. I tested the dataset in Google Colab and made sure the notebook ran successfully without erros. I orrected the 
+dataset file path, verified it loaded correctly and made sure there were no missing values or errors.
 
 
 -----
